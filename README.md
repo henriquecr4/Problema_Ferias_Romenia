@@ -4,7 +4,7 @@ Este projeto implementa o algoritmo de busca A* (A-Star) para encontrar o caminh
 
 A busca A* é utilizada para encontrar o melhor caminho entre uma cidade de origem (Arad) e o destino (Bucharest), considerando:
 
-g(n): custo real do caminho até o nó atual.
-h(n): heurística (estimativa do custo restante).
-f(n) = g(n) + h(n): avaliação total usada para escolha dos caminhos.
+g(n): custo real do caminho até o nó atual.<br>
+h(n): heurística (estimativa do custo restante).<br>
+f(n) = g(n) + h(n): avaliação total usada para escolha dos caminhos.<br>
 
