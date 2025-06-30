@@ -1,4 +1,4 @@
-# Busca em A* (A-star) Search no mapa da Romenia
+# Busca em A* (A-star) Search no mapa da Romênia
 
 Este projeto implementa o algoritmo de busca A* (A-Star) para encontrar o caminho mais eficiente entre cidades no mapa da Romenia.
 
